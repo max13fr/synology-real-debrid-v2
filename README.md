@@ -9,7 +9,7 @@ The existing RealDebrid module isn't working for me, idem for robinwit's module,
 
 ## Installing
 
-Download Station -> Settings -> File Hosting -> Add -> *real_debrid_v2.host*
+Download Station -> Settings -> File Hosting -> Add -> **real_debrid_v2.host**
 
 /!\ This script use the new API of real-debrid that use a private token /!\
 * Username : Enter you API token (https://real-debrid.com/apitoken)
