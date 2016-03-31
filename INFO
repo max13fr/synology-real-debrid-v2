@@ -1,0 +1,10 @@
+{
+    "authentication": "yes",
+    "class": "RealDebridV2FileHost",
+    "description": "Real-Debrid.com",
+    "displayname": "Real-Debrid V2",
+    "hostprefix": "1fichier.co,2shared.com,4shared.com,allmyvideos.com,anafile.com,datafilehost.com,datei.to,dl.free.fr,easybytez.com,filefactory.com,fileflyer.com,filerio.in,filesflash.com,gigapeta.com,hulkshare.com,letitbit.net,load.to,mediafire.com,mega.nz,mega.com,mega.co.nz,nowdownload.ch,oboom.com,purevid.com,rapidgator.net,redtube.fr,rutube.ru,salefiles.com,scribd.com,sendspace.com,shareflare.net,soundcloud.com,speedyshare.com,thevideo.me,turbobit.com,uloz.to,unibytes.com,uplea.com,upload.af,uploadable.net,bigfile.to,uploadc.ch,ul.to,uploaded.net,uploadrocket.net,uploadx.com,uptobox.com,userscloud.com,videoweed.es,bitvid.tv,vimeo.com,vip-file.com,youporn.com,youtube.com,yunfile.com,zippyshare.com",
+    "module": "realdebrid_v2.php",
+    "name": "realdebrid_v2",
+    "version": "1"
+}
